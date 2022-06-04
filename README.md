@@ -3,4 +3,4 @@
 	To build a classification methodology to predict the type of Thyroid based on the given training data. 
 
 # Architecture
-<img src="./Architecture.jpg">
+<img src="./photos/Architecture.jpg">
